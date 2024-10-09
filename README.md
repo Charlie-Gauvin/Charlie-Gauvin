@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 28 years old front-end developer still in training at O'Clock school until july 2024.</p>
+<p align="left">I'm a 28 years old web developer.</p>
 
 ###
 
