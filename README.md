@@ -93,7 +93,7 @@ Feel free to check my [portfolio](https://charliegauvin.com) !
 <div align="left">
   
   [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/charlie-gauvin) &nbsp;&nbsp;
-  [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:votre-email@example.com)
+  [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:gauvinch9@gmail.com)
   
 </div>
 
