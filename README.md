@@ -13,7 +13,7 @@ Feel free to check my [portfolio](https://charliegauvin.com) !
 
 <h2 align="left">📦 Toolbox</h2>
 
-###.
+###
 
 <p align="left">Frontend :</p>
 
