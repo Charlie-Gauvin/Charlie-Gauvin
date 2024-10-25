@@ -2,13 +2,18 @@
 
 ###
 
-<p align="left">I'm a 28 years old front-end developer still in training at O'Clock school until july 2024.</p>
+<p align="left">I am a 28-year-old web developer. I completed a JavaScript training program with a specialization in React, where I earned the professional title of Web and Mobile Web Developer. Open to new opportunities, I am curious and enjoy creating things. I am rigorous in my work and have a particular interest in teamwork.</p>
+
+<p align="left"><em>Je suis un développeur web de 28 ans. J'ai complété une formation en JavaScript avec une spécialisation en React, où j'ai obtenu le titre professionnel de Développeur web et mobile. Ouvert à de nouvelles opportunités, je suis curieux et j'aime créer des choses. Je suis rigoureux dans mon travail et porte un intérêt particulier au travail en équipe.</em></p>
+
+
+Feel free to check my [portfolio](https://charliegauvin.com) !
 
 ###
 
 <h2 align="left">📦 Toolbox</h2>
 
-###
+###.
 
 <p align="left">Frontend :</p>
 
@@ -80,13 +85,16 @@
 
 ###
 
-<p align="left">Send me a message for a quick response on linkedIn</p>
+<p align="left">Want to contact me ? Click on one of the logos below : </p>
 
 ###
 
+
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  
+  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/charlie-gauvin) &nbsp;&nbsp;
+  [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:votre-email@example.com)
+  
 </div>
 
 ###
