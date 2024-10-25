@@ -15,7 +15,7 @@ Feel free to check my [portfolio](https://charliegauvin.com) !
 
 ###
 
-<p align="left">Frontend :</p>
+<h3 align="left">Frontend :</h3>
 
 ###
 
@@ -41,7 +41,7 @@ Feel free to check my [portfolio](https://charliegauvin.com) !
 
 ###
 
-<p align="left">Backend :</p>
+<h3 align="left">Backend :</h3>
 
 ###
 
@@ -57,7 +57,7 @@ Feel free to check my [portfolio](https://charliegauvin.com) !
 
 ###
 
-<p align="left">Others :</p>
+<h3 align="left">Others :</h3>
 
 ###
 
