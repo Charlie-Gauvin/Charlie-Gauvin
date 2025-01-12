@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a 28-year-old web developer. I completed a JavaScript training program with a specialization in React, where I earned the professional title of Web and Mobile Web Developer. Open to new opportunities, I am curious and enjoy creating things. I am rigorous in my work and have a particular interest in teamwork.</p>
+<p align="left">I am a 29-year-old web developer. I completed a JavaScript training program with a specialization in React, where I earned the professional title of Web and Mobile Web Developer. Open to new opportunities, I am curious and enjoy creating things. I am rigorous in my work and have a particular interest in teamwork.</p>
 
 <p align="left"><em>Je suis un développeur web de 28 ans. J'ai complété une formation en JavaScript avec une spécialisation en React, où j'ai obtenu le titre professionnel de Développeur web et mobile. Ouvert à de nouvelles opportunités, je suis curieux et j'aime créer des choses. Je suis rigoureux dans mon travail et porte un intérêt particulier au travail en équipe.</em></p>
 
